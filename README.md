@@ -1,5 +1,5 @@
 # Portfolio-Website
 My personal portfolio Website :
-https://mustafakhan.rocks/
+https://wisalmalik.github.io/protfolio/
 # protfolio
 # protfolio
